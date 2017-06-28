@@ -1,0 +1,24 @@
+{
+  "name": "best-hops",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elektro1776/Project-1-Server.git"
+  },
+  "author": "Austin Reynolds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elektro1776/Project-1-Server/issues"
+  },
+  "homepage": "https://github.com/Elektro1776/Project-1-Server#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0"
+  }
+}
